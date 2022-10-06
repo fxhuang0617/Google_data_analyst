@@ -103,6 +103,7 @@ brought into the organization.
 ### For example, the Ask phase in analysis process is trying to ***identify the problems***. 
 ### In plan step, we are trying to ***know what kind of data we need, how to manage or store it, and who should be responsible for it***. 
 
-
+# Quantitive data vs Qulitative data
+![image](https://github.com/fxhuang0617/Google_data_analyst/blob/main/Foundation/kcoM3jvKRwaKDN47ypcGEg_0e94cc13f6c148479406a8b1021c6cea_DA_C2M2L2R2.png)
 
 
