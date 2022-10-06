@@ -8,7 +8,7 @@
     - what kind of data does it need?
     - how it will be managed throughout its life cycle?
     - who will be responsible for it, and the optimal outcomes.
-  - In this phase we will plan what kind of data we want to capture.
+  - In this phase we will plan what kind of data we want to capture.[Data type](https://github.com/fxhuang0617/Google_data_analyst/blob/main/Foundation/Analytical_thinking.md#quantitive-data-vs-qulitative-data)
   
 - Capture
   - This is where data is collected from a variety of different sources and 
