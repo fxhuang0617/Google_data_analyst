@@ -28,12 +28,17 @@ brought into the organization.
 ## It's a process rather than a life cycle.
 - Ask
   - ask effective questions
-    - use SMART to ask effective questions
-    > S -> Specific
-    > M -> Measurement
-    > A -> Action-oriented
-    > R -> Relevant
-    > T -> Time-bound
+    > use SMART to ask effective questions
+    > 
+    > S -> Specific : Questions are simple, significant, and focused on a single topic or a few closely related idea
+    > 
+    > M -> Measurable: Questions can be quantified and assessed
+    > 
+    > A -> Action-oriented: Questions encourage change
+    > 
+    > R -> Relevant: Questions matter, are important, and have significance to the problem you’re trying to solve
+    > 
+    > T -> Time-bound: Questions specify the time to be studied
   - define the problem
   - use structure thinking
   - communication with others
