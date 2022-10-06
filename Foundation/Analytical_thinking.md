@@ -28,6 +28,12 @@ brought into the organization.
 ## It's a process rather than a life cycle.
 - Ask
   - ask effective questions
+    - use SMART to ask effective questions
+    > S -> Specific
+    > M -> Measurement
+    > A -> Action-oriented
+    > R -> Relevant
+    > T -> Time-bound
   - define the problem
   - use structure thinking
   - communication with others
